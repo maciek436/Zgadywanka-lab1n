@@ -1,0 +1,7 @@
+D:\Users\maciej.bafia\Documents\GitHub\Zgadywanka-lab1n\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
+D:\Users\maciej.bafia\Documents\GitHub\Zgadywanka-lab1n\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
+D:\Users\maciej.bafia\Documents\GitHub\Zgadywanka-lab1n\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
+D:\Users\maciej.bafia\Documents\GitHub\Zgadywanka-lab1n\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
+D:\Users\maciej.bafia\Documents\GitHub\Zgadywanka-lab1n\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
+D:\Users\maciej.bafia\Documents\GitHub\Zgadywanka-lab1n\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
+D:\Users\maciej.bafia\Documents\GitHub\Zgadywanka-lab1n\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb

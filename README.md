@@ -1,0 +1,1 @@
+# Zgadywanka-lab1n
